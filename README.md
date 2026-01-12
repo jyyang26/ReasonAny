@@ -1,4 +1,7 @@
 # ReasonAny
+
+Official Code of "ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging"
+
 # Experiment Setup
 
 This guide details how to replicate the environment on a new machine. The environment is designed for Large Language Model evaluation and includes libraries such as `vllm`, `deepspeed`, `transformers`, and `torch`.
