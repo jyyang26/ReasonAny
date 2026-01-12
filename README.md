@@ -1,6 +1,6 @@
 # ReasonAny
 
-Official Code of "ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging"
+Official Code of "ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging".
 
 # Experiment Setup
 
