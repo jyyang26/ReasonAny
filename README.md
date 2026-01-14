@@ -46,7 +46,7 @@ The additive experiments (Bottom row) validate this: merging only the **lowest 1
 
 ## 🚩 Main Results
 
-We compare ReasonAny against state-of-the-art baselines across Safety and Biomedicine domains on Qwen2.5-7B and Qwen2.5-14B models.
+We evaluate **ReasonAny against 10 state-of-the-art baselines across Safety, Biomedicine, and Finance domains using Qwen2.5 (7B, 14B, 32B, QwQ-32B) and Llama 3.1-8B model families**. **Across 9 model configurations and 15+ benchmarks**, we conducted **over 1,000 evaluation experiments** to verify the framework's effectiveness and robustness across diverse scales and specialized fields.
 
 ### 1. Safety Alignment (Qwen2.5-7B)
 
