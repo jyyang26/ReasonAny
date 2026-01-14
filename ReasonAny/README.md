@@ -1,14 +1,14 @@
 # Setup
 # Model Merging
-## Safety
+## Safety Model
 `cd safety`
 `bash run_safety.sh`
 
-## Biomedicine
+## Biomedicine Model
 `cd biomedicine`
 `bash run_bio.sh`
 
-## Finance
+## Finance Model
 `cd finance`
 `bash run_finance.sh`
 
