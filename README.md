@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging</h1>
+  <h1>[ACL 2026 Main] ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging</h1>
   <br />
   <span style="color:red">📢 <strong><i>If you are interested in our work, please star ⭐ our project.</i></strong></span>
 
